@@ -29,7 +29,7 @@ is a walkthrough to get the most out of PyCharm Professional while working with 
 discusses PyCharm as an IDE plus installation instructions for Linux Mint 
 using a PPA. *(2017/10/12, Mike Turcotte)*
 
-* [Integrating PyCharm with Pyenv](http://victormartinez.co/2017/08/04/integrating-pycharm-with-pyenv/)  shows how to use 
+* [Integrating PyCharm with Pyenv](http://vcrmartinez.com/2017/08/04/integrating-pycharm-with-pyenv/)  shows how to use 
 [pyenv](https://github.com/pyenv/pyenv) (the Python version management tool) 
 from within PyCharm. *(2017/08/04, Viktor Martinez)*
 
@@ -96,6 +96,11 @@ Shell console. *(2017-12-12)*
 
 * [Flask PyCharm Templates](https://github.com/mstuttgart/flask-pycharm-templates)
 Collection of live templates to help you develop Flask web applications. *(2017-10-08, Michell Stuttgart)*
+
+## Themes
+
+* [PyCharm Color Schemes](https://github.com/mstuttgart/pycharm-color-scheme)
+Collection of themes adapted to use with this IDE. *(2019-10-01, Michell Stuttgart)*
 
 # Contributing
 
